@@ -1,0 +1,6 @@
+*fix no expenses added yet text. DONE
+*Add total cost amount by adding the entire column of amount. DONE
+
+*Add remove button for each expense. Make its column smaller as it just a button. 
+*Make cost input more user friendly. Google money input.
+*general styling etc.
